@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 estoy en la rama master
 Hago cambio -Oscar S-
+=======
+estoy en la ram master. Te lo he cambiado oscaaaaaaar!!!
+>>>>>>> 3e708295bc803ff28ac95451fe0a8f413994e49b
+
+
+-------------------ahora se unio el archivo-----------------------------------
