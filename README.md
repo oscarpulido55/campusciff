@@ -34,30 +34,35 @@ git push origin master
 ****
 ### 2.6. ignorar archivos
 crear en repositorio local, privado.txt, crear carpeta llamada privada
+![picture alt](/images/7.png "Title is optional")  
+
+
 ****
 ### 2.7. realizar cambios para ignoar archivos ###
 crear .gitignore
-
+![picture alt](/images/8.png "Title is optional")  
 ya no aparecen los archivos registrados en .gitignore como monitorizados por git
+
 ****
 ### 2.8. añadir fichero 1.txt###
+![picture alt](/images/9.png "Title is optional")  
+
 ****
 ### 2.9. crear el tag v0.1###
+![picture alt](/images/10.png "Title is optional")  
 ****
 ### 2.10 subir tag v0.1###
+![picture alt](/images/11.png "Title is optional")  
+
 ****
 ### 2.11. Poner Foto en Perfil de Git-Hub, añadir clave publica, segundo factor autenticacion###
+![picture alt](/images/12.png "Title is optional")  
+![picture alt](/images/13.png "Title is optional")  
+![picture alt](/images/14.png "Title is optional")  
+
 ****
 ### 2.13. Crear una tabla MD###
-
-****
-### 2.14. agregar a asanzdiego como colaborador del repositorio###
-
-
-
-
-****
-## Tabla compañeros de clase ##
+#### Tabla compañeros de clase ####
 
 | Nombre 	| gitHub 				|
 | -------------	| -----------------------------: 	|
@@ -66,6 +71,13 @@ ya no aparecen los archivos registrados en .gitignore como monitorizados por git
 |  Oscar Silva  |  https://github.com/Oscar91DS  	|
 |  Ivan Ortiz	|  https://github.com/ivtransgruasortiz	|
 
+****
+### 2.14. agregar a asanzdiego como colaborador del repositorio###
+![picture alt](/images/15.png "Title is optional")  
+
+
+****
+****
 ****
 ## Resumen de comandos ##
 - para inicializar o monitorizar una carpeta
@@ -139,6 +151,8 @@ git commit -m "commit inicial"
 
 - push inicial al repositorio
 git push origin master 
-
+****
+****
+****
 
 
