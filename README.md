@@ -5,51 +5,58 @@
 
 
 ## 2. REPOSITORIO CAMPUSCIFF ##
+****
 ### 2.1. Crear repositorio en github ###
-![picture alt](/images/1.png "Title is optional")  
+![picture alt](/images/1.png "Title is optional")
+![picture alt](/images/2.png "Title is optional")
 
+****
 ### 2.2. Clonar repositorio en local ###
-
+![picture alt](/images/3.png "Title is optional")  
 - clona rep remoto a local
 git clone https://github.com/oscarpulido55/campusciff.git 
 
-
+****
 ### 2.3 crear archivo README.md###
-
- 
+![picture alt](/images/4.png "Title is optional")  
 Comandos en README.md
 
+****
 ### 2.4. Hacer commit inicial###
+![picture alt](/images/5.png "Title is optional")  
 
+****
 ### 2.5 push inicial###
 git push origin master 
+![picture alt](/images/6.png "Title is optional")  
 
 
+****
 ### 2.6. ignorar archivos
 crear en repositorio local, privado.txt, crear carpeta llamada privada
-
+****
 ### 2.7. realizar cambios para ignoar archivos ###
 crear .gitignore
 
 ya no aparecen los archivos registrados en .gitignore como monitorizados por git
-
+****
 ### 2.8. añadir fichero 1.txt###
-
+****
 ### 2.9. crear el tag v0.1###
-
+****
 ### 2.10 subir tag v0.1###
-
+****
 ### 2.11. Poner Foto en Perfil de Git-Hub, añadir clave publica, segundo factor autenticacion###
-
+****
 ### 2.13. Crear una tabla MD###
 
-
+****
 ### 2.14. agregar a asanzdiego como colaborador del repositorio###
 
 
 
 
-
+****
 ## Tabla compañeros de clase ##
 
 | Nombre 	| gitHub 				|
@@ -59,7 +66,7 @@ ya no aparecen los archivos registrados en .gitignore como monitorizados por git
 |  Oscar Silva  |  https://github.com/Oscar91DS  	|
 |  Ivan Ortiz	|  https://github.com/ivtransgruasortiz	|
 
-
+****
 ## Resumen de comandos ##
 - para inicializar o monitorizar una carpeta
 git init
